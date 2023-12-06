@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Users/Camilo Barbosa/OneDrive - Identidad Advertisement/Documents/Apuntes/Curso React Platzi/build/static/css/main.839264f5.css",
+    "main.js": "/Users/Camilo Barbosa/OneDrive - Identidad Advertisement/Documents/Apuntes/Curso React Platzi/build/static/js/main.d59e33b5.js",
+    "index.html": "/Users/Camilo Barbosa/OneDrive - Identidad Advertisement/Documents/Apuntes/Curso React Platzi/build/index.html",
+    "static/media/delete.svg": "/Users/Camilo Barbosa/OneDrive - Identidad Advertisement/Documents/Apuntes/Curso React Platzi/build/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/Users/Camilo Barbosa/OneDrive - Identidad Advertisement/Documents/Apuntes/Curso React Platzi/build/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.839264f5.css.map": "/Users/Camilo Barbosa/OneDrive - Identidad Advertisement/Documents/Apuntes/Curso React Platzi/build/static/css/main.839264f5.css.map",
+    "main.d59e33b5.js.map": "/Users/Camilo Barbosa/OneDrive - Identidad Advertisement/Documents/Apuntes/Curso React Platzi/build/static/js/main.d59e33b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.839264f5.css",
+    "static/js/main.d59e33b5.js"
+  ]
+}
