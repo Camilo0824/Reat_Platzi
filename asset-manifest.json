@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react_platzi/static/css/main.839264f5.css",
-    "main.js": "/react_platzi/static/js/main.e1010ebe.js",
+    "main.js": "/react_platzi/static/js/main.a5e4c3b8.js",
     "index.html": "/react_platzi/index.html",
     "static/media/delete.svg": "/react_platzi/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
     "static/media/check.svg": "/react_platzi/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
     "main.839264f5.css.map": "/react_platzi/static/css/main.839264f5.css.map",
-    "main.e1010ebe.js.map": "/react_platzi/static/js/main.e1010ebe.js.map"
+    "main.a5e4c3b8.js.map": "/react_platzi/static/js/main.a5e4c3b8.js.map"
   },
   "entrypoints": [
     "static/css/main.839264f5.css",
-    "static/js/main.e1010ebe.js"
+    "static/js/main.a5e4c3b8.js"
   ]
 }
