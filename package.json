@@ -31,7 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "htts://camilobarbosa08.github.io/React_Platzi",
+  "homepage": "https://camilobarbosa08.github.io/react_platzi",
   "devDependencies": {
     "gh-pages": "^6.1.0"
   }
